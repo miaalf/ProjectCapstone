@@ -1,1 +1,2 @@
 # ProjectCapstone
+FashionAlly adalah chatbot interaktif yang didesain khusus untuk memberikan rekomendasi pakaian yang sesuai dengan beberapa preferensi pengguna. Dengan menggunakan kecerdasan buatan dan pemrosesan bahasa alami, FashionAlly dapat memahami informasi tentang acara tertentuserta preferensi gaya pengguna. Dengan Fashionally, maka dapat dengan mudah menemukan inspirasi dan pilihan pakaian yang sesuai dengan gaya dan kebutuhan kita.

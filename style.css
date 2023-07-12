@@ -12,7 +12,7 @@
   header {
     background-color: #333;
     padding: 20px;
-    color: #fff;
+    color: #E5E4E2;
   }
   
   header h1 {
@@ -38,7 +38,7 @@
     background-image: url('bg.jpg');
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,7 +46,7 @@
   
   .hero-content {
     text-align: center;
-    color: #fff;
+    color: #FFFFF0;
   }
   
   .gallery {
